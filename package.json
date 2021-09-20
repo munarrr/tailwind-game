@@ -1,0 +1,28 @@
+{
+  "name": "tailwind-project",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.2.12",
+    "vue-router": "^4.0.11",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@headlessui/vue": "^1.4.1",
+    "@heroicons/vue": "^1.0.4",
+    "@tailwindcss/aspect-ratio": "^0.2.1",
+    "@tailwindcss/forms": "^0.3.3",
+    "@tailwindcss/line-clamp": "^0.2.1",
+    "@tailwindcss/typography": "^0.4.1",
+    "@types/tailwindcss": "^2.2.1",
+    "@vitejs/plugin-vue": "^1.8.1",
+    "@vue/compiler-sfc": "^3.2.12",
+    "autoprefixer": "^10.3.4",
+    "tailwindcss": "^2.2.15",
+    "vite": "^2.5.10"
+  }
+}
